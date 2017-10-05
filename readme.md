@@ -46,7 +46,7 @@ Arabic	422000000
 - [*node*.each](https://github.com/d3/d3-hierarchy/blob/master/README.md#node_each)
 
 ## License
-GPL-3.0 © Yoeri Pasmans
+MIT © Yoeri Pasmans
 
 [block]: http://bl.ocks.org/mmattozzi/7018021
 [block-author]: https://github.com/mbostock

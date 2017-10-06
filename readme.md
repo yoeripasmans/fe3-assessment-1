@@ -1,6 +1,8 @@
 # Assessment 1 - Datavisualization Top languages by number of speaker
 For this assessment I made a basic visualization from the top languages by number of speaker. The goal was to understand what’s happening in the code, how well data is represented and quality of the code and documentation.
 
+[Link to site](https://yoeripasmans.github.io/fe3-assessment-1/)
+
 ![Assessment 1][cover]
 
 ## Background
